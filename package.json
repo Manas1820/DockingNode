@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Docker and Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manas1820/DockingNode.git"
+  },
+  "author": "Manas Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manas1820/DockingNode/issues"
+  },
+  "homepage": "https://github.com/Manas1820/DockingNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
